@@ -7,3 +7,4 @@ MongoDB is faster and more scalable. It is an open source, nonrelational databas
 
 **_Object Data Modeling(ODM)_**:
 Mongoose manages relationships between data, provides schema validation, and is used to translate between objects in code and the representation of those objects in MongoDB.
+It is implemented in backend folder, inside the src folder named as mongooseConn.js.
